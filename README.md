@@ -69,6 +69,3 @@ Each **question type** has a `gen()` that returns a fresh question every call. T
 
 Python 3 for the build and Node.js for the headless test. The built page is plain HTML/CSS/JS with no dependencies besides Google Fonts.
 
-## Pages built with this skeleton
-
-- Chemistry Ch 8–10 (electron configuration, bonding, molecular shapes).
